@@ -5,7 +5,7 @@
 Create your personal website with the correct file structure on your local machine - this file structure should include:
 
 1. One index.html page - this page should contain meta tags and all the HTML document linked appropriately *DONE*
-2. At least three other pages you can link to ( you can use the ones from the previous exercise: about us, contact us, and products page) *DONE*
+2. At least three other pages you can link to (you can use the ones from the previous exercise: about us, contact us, and products page) *DONE*
 3. One CSS file and one optional Javascript file *DONE*
 4. At least two images on any page of your choice *DONE*
 
