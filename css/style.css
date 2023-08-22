@@ -62,13 +62,6 @@ h1 {
   margin-bottom: 0;
 }
 
-.over_bootstrap_link:active {
-  background-color: #f7c200;
-  color: black;
-  text-decoration: none;
-  margin-bottom: 0;
-}
-
 .over_bootstrap_link:hover {
   color: #f7c200;
   margin-bottom: 0;
