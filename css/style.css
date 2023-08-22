@@ -262,6 +262,10 @@ h1 {
   text-align: right;
 }
 
+.td_top {
+  vertical-align: top;
+}
+
 /* BUTTONS */
 
 .button_invite {
